@@ -10,3 +10,4 @@
 - [Parth Maheshwari](https://github.com/parthmahe "view Profile")
 - [Archit Gupta](https://github.com/i-archit-gupta "view Profile")
 - [Lopamudra Dalai](https://github.com/lopaissoded "view Profile")
+- [Rohan Nag](https://github.com/PERPleXeD01 "View Profile")
