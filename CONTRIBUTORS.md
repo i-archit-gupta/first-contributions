@@ -11,4 +11,3 @@
 - [Archit Gupta](https://github.com/i-archit-gupta "view Profile")
 - [Lopamudra Dalai](https://github.com/lopaissoded "view Profile")
 - [Rohan Nag](https://github.com/PERPleXeD01 "View Profile")
-- [ABCD](https://github.com/i-archit-gupta "View Profile")
